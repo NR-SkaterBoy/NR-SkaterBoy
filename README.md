@@ -14,3 +14,4 @@ My name is **Richard Neuvald** and I am from **Hungary**. I started my studies i
 
 - [Website](https://richardneuvald.hu/)
 - [Instagram](https://www.instagram.com/richardneuvald/)
+- [Twitter](https://twitter.com/richardneuvald)
