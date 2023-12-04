@@ -1,6 +1,7 @@
+
 # HI THERE👋
 
-My name is **Richard Neuvald**, I am from **Hungary**. I started my studies in 2022 at the **University of Pannonia** in Veszprém, studying computer science with a specialization in program design.
+My name is **Richard Neuvald** from **Hungary**. I started my studies in 2022 at the **University of Pannonia** in Veszprém, studying computer science with a specialization in program design.
 
 
 # Projects
@@ -16,7 +17,6 @@ My name is **Richard Neuvald**, I am from **Hungary**. I started my studies in 2
 - [Website](https://richardneuvald.hu/)
 - [Instagram - Programmer](https://www.instagram.com/richardneuvald/)
 - [Instagram - Personal](https://www.instagram.com/richard.neuvald/)
-- [Instagram - Traveller](https://www.instagram.com/richardneuvald.travel/)
 
 ### Support Platform
 
