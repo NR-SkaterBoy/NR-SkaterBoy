@@ -1,7 +1,7 @@
 
 # HI THERE👋
 
-My name is **Richard Neuvald** from **Hungary**. I started my studies in 2022 at the **University of Pannonia** in Veszprém, studying computer science with a specialization in program design.
+Hey there, my name is Richard Neuvald, a 21-year-old software development student at the University of Pannonia, Hungary. I am dedicated to exploring emerging technologies and complex challenges, and I am committed to continuous professional development in programming.
 
 
 # Projects
@@ -10,7 +10,7 @@ My name is **Richard Neuvald** from **Hungary**. I started my studies in 2022 at
 - [MulticolorBot - Dashboard - Soon]()
 - [Password Generator](https://microsoftedge.microsoft.com/addons/detail/password-generator/kjbiebfndmeecbifhhdpjeoljbbdamhe)
 - [Password Checker](https://microsoftedge.microsoft.com/addons/detail/password-checker/jemeoilhmkbpfckclmdedfhpklbjlnlm)
-- [LinuxSystemUpdate](https://github.com/NR-SkaterBoy/LinuxSystemUpdate) 
+- [LinuxSystemUpdater](https://github.com/NR-SkaterBoy/LinuxSystemUpdate) 
 
 ## Social Network
 
