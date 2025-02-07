@@ -14,7 +14,7 @@ Hey there, my name is Richard Neuvald, a 21-year-old software development studen
 
 ## Social Network
 
-- [Website](https://richardneuvald.hu/)
+- [Website](https://richardneuvald.com/)
 - [Instagram - Programmer](https://www.instagram.com/richardneuvald/)
 - [Instagram - Personal](https://www.instagram.com/richard.neuvald/)
 
